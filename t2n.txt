@@ -3,3 +3,35 @@ GOOG OR Google OR google
 MSFT OR Microsoft OR microsoft
 NIO OR Nio Inc OR Nio
 TSLA OR Tesla
+CHGG OR Chegg
+F AND $F OR Ford
+SBUX OR Starbucks
+BAC OR Bank of America
+SNAP OR Snapchat
+UAA OR Under Armour
+EL AND $EL OR Estee OR Estee Lauder
+ETSY
+GOOS OR Canada Goose
+TGT OR Target
+ULTA OR Ulta Beauty
+BYND OR Beyond Meat
+NKE OR Nike
+AMD
+AMZN OR Amazon OR amazon
+FB OR Facebook OR facebook
+BRK-A OR BRK-B OR Berkshire Hathawy OR berkshire hathaway
+BABA OR Alibaba Group OR alibaba group
+JNJ OR Johnson & Johnson OR johnson & johnson
+JPM OR JPMorgan OR jpmorgan JP Morgan OR jp morgan
+XOM OR Exxon OR exxon OR ExxonMobil OR exxonmobil
+BAC OR Bank of America OR bank of america
+WMT OR Walmart OR walmart
+WFC OR Wells Fargo OR wells fargo
+PG OR Proctor & Gamble OR proctor & gamble
+CVX OR Chevron OR chevron
+PFE OR Pfizer OR pfizer
+CHL OR China Mobile OR china mobile
+INTC OR Intel OR intel
+VZ OR Verizon OR verizon
+ORCL OR Oracle OR oracle
+NVS OR Novartis OR novartis

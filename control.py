@@ -10,6 +10,8 @@ if __name__ == '__main__':
             get_live_tweets(control_ticker)
             break
         if selection == 'Past':
-            get_past_tweets(control_ticker)
-            print("\n All tweets are stored in a json for easy access.")
+            tweets_to_open = int(input("How many tweets would you like to retrieve? "))
+            days_past = int(input("What is the age limit of the tweets in days? "))
+            get_past_tweets(control_ticker, tweets_to_open, days_past)
+            print("\nAll tweets are stored in a json for easy access.")
             break

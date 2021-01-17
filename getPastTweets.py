@@ -49,8 +49,6 @@ def store_tweets_in_json(passed_tweet_list, file):
     file_to_open.flush()
     file_to_open.close()
 
-def get_past_tweets(control_ticker):
-    tweets_to_open = int(input("How many tweets would you like to retrieve? "))
-    days_past = int(input("What is the age limit of the tweets in days? "))
+def get_past_tweets(control_ticker, tweets_to_open, days_past):
     alltweets = get_relevant_tweets(control_ticker, tweets_to_open, days_past)
     store_tweets_in_json(alltweets, 'HackNortheast_Project_1\\relevant_tweets.json')
